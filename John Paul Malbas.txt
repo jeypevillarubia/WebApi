@@ -1,0 +1,27 @@
+I used visual studio 2013....
+
+I also used wamp server as my db... this folder has an exported files of my database 
+
+with a file name practice311.sql
+
+
+
+I used the valuesController.cs for the student controller
+
+
+I also created a class in the model folder with a name Class1.cs
+
+it has three class 
+
+the first one has the properties of the student
+the second one is used in creating new student
+and the third one is used for reading data of the student
+
+
+
+
+
+for now this is all I have.......
+
+
+  

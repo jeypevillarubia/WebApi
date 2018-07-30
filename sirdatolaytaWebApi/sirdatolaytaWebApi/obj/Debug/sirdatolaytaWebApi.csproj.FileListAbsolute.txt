@@ -1,0 +1,64 @@
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\sirdatolaytaWebApi.dll.config
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\sirdatolaytaWebApi.dll
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\sirdatolaytaWebApi.pdb
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\Antlr3.Runtime.dll
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\Newtonsoft.Json.dll
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Net.Http.Formatting.dll
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Helpers.dll
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Http.dll
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Http.WebHost.dll
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Mvc.dll
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Optimization.dll
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Razor.dll
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.WebPages.Deployment.dll
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.WebPages.dll
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.WebPages.Razor.dll
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\WebGrease.dll
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\Newtonsoft.Json.xml
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Net.Http.Formatting.xml
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Helpers.xml
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Http.xml
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Http.WebHost.xml
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Mvc.xml
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Optimization.xml
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Razor.xml
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.WebPages.xml
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.WebPages.Deployment.xml
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.WebPages.Razor.xml
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\Antlr3.Runtime.pdb
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\obj\Debug\sirdatolaytaWebApi.csprojResolveAssemblyReference.cache
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\obj\Debug\sirdatolaytaWebApi.dll
+c:\users\seven\documents\visual studio 2013\Projects\sirdatolaytaWebApi\sirdatolaytaWebApi\obj\Debug\sirdatolaytaWebApi.pdb
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\sirdatolaytaWebApi.dll.config
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\sirdatolaytaWebApi.dll
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\sirdatolaytaWebApi.pdb
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\Antlr3.Runtime.dll
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\Newtonsoft.Json.dll
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Helpers.dll
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Http.dll
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Mvc.dll
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Optimization.dll
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Razor.dll
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.WebPages.dll
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\WebGrease.dll
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\Newtonsoft.Json.xml
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Helpers.xml
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Http.xml
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Mvc.xml
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Optimization.xml
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.Razor.xml
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.WebPages.xml
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\obj\Debug\sirdatolaytaWebApi.csprojResolveAssemblyReference.cache
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\obj\Debug\sirdatolaytaWebApi.dll
+C:\Users\seven\Desktop\Johnpaulmalbas\sirdatolaytaWebApi\sirdatolaytaWebApi\obj\Debug\sirdatolaytaWebApi.pdb
